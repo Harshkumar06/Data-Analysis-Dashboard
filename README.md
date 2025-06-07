@@ -38,7 +38,7 @@ The dashboard visualizes sales performance across products, regions, and time pe
 4. Interact with filters to explore different views
 
 ## 📷 Screenshot
-https://github.com/Harshkumar06/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-07%20134922.png
+![Vrinda Store Dashboard](https://github.com/Harshkumar06/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-07%20134922.png)
 
 ## 📚 Learnings & Outcomes
 - Developed a real-world dashboard to communicate key business insights
