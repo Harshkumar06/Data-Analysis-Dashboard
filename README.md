@@ -10,7 +10,7 @@ The dashboard visualizes sales performance across products, regions, and time pe
 - **SQL**
 
 ## 📁 Dataset Description
-- **Source**: 
+- **Source**: https://github.com/Harshkumar06/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Sales%20Dataset.xlsx
 - **Contents**:
   - Product-wise sales
   - Customer segments
@@ -33,8 +33,8 @@ The dashboard visualizes sales performance across products, regions, and time pe
 
 ## 🚀 How to Use
 1. Clone the repository
-2. Open the dashboard file in **Power BI / Excel / Tableau**
-3. Refresh or connect to the dataset (if dynamic)
+2. Open the dashboard file in **Power BI / Excel**
+3. Refresh or connect to the dataset
 4. Interact with filters to explore different views
 
 ## 📷 Screenshot
