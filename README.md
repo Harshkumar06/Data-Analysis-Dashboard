@@ -45,8 +45,5 @@ https://github.com/Harshkumar06/Data-Analysis-Dashboard/blob/main/Screenshot%202
 - Enhanced data wrangling, visualization, and storytelling skills
 - Understood customer behavior and product sales patterns
 
-## 🤝 Contributions
-Open to collaboration or suggestions for improvement.
-
 ## 📩 Contact
 For queries or collaborations, connect via [LinkedIn](#www.linkedin.com/in/harsh-kumar-737997231) or email at `harshkumar25007@gmail.com`.
