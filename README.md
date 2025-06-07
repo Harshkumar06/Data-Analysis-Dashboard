@@ -6,12 +6,11 @@ This repository contains a comprehensive sales data analysis dashboard for **Vri
 The dashboard visualizes sales performance across products, regions, and time periods using interactive and insightful charts.
 
 ## 🧰 Tools & Technologies Used
-- **Microsoft Excel / Power BI / Tableau** *(choose based on your project)*
-- **SQL** *(for data cleaning or transformation, if used)*
-- **Python (Pandas, Matplotlib, Seaborn)** *(optional, if used for preprocessing or analysis)*
+- **Microsoft Excel / Power BI**
+- **SQL**
 
 ## 📁 Dataset Description
-- **Source**: Internal sales dataset provided by Vrinda Store
+- **Source**: 
 - **Contents**:
   - Product-wise sales
   - Customer segments
